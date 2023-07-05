@@ -1,6 +1,6 @@
-<h1>Maicon Rodrigues💻✨</h1>
+<h1>Maicon Rodrigues - Programador💻✨</h1>
 
-<p>Sou um desenvolvedor web apaixonado por criar interfaces incríveis usando HTML, CSS e JavaScript. Com dois anos de experiência em programação e fluência em vários idiomas, estou sempre aprimorando minhas habilidades para oferecer soluções inovadoras. Atualmente, estudo na Kenzie Academy, buscando expandir meus conhecimentos em desenvolvimento web e tecnologia da informação.</p>
+<p>Olá, sou desenvolvedor web apaixonado por criar interfaces incríveis usando HTML, CSS e JavaScript. Com dois anos de experiência em programação e fluência em vários idiomas, estou sempre aprimorando minhas habilidades para oferecer soluções inovadoras. Atualmente, estudo na Kenzie Academy, buscando expandir meus conhecimentos em desenvolvimento web e tecnologia da informação.</p>
 <p>Vamos construir algo incrível! 😄🚀</p>
  <div>
    <a href="https://github.com/Mr-programador">
