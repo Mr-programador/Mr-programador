@@ -1,5 +1,7 @@
-## Bem-vindo(a) ao perfil do Mrprogramador😁
+<h1>Mrprogramador💻✨</h1>
 
+<p>Olá! Sou o Maicon Rodrigues, um desenvolvedor web apaixonado por criar interfaces incríveis usando HTML, CSS e JavaScript. Com dois anos de experiência em programação e fluência em vários idiomas, estou sempre aprimorando minhas habilidades para oferecer soluções inovadoras. Atualmente, estudo na Kenzie Academy, buscando expandir meus conhecimentos em desenvolvimento web e tecnologia da informação.</p>
+<p>Vamos trabalhar juntos e construir algo fantástico? 😄🚀</p>
  <div>
    <a href="https://github.com/Mr-programador">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mr-programador&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
