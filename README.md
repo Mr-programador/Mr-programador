@@ -10,9 +10,9 @@
 
 <table style="display: inline-block; text-align: center;">
   <tr>
-    <th>----- Sistemas-Operacionais -----</th>
-    <th>----- Ferramentas-de-Edição -----</th>
-    <th>--- Linguagens-de-Programação ---</th>
+    <th>------- Sistemas-Operacionais -------</th>
+    <th>------- Ferramentas-de-Edição -------</th>
+    <th>----- Linguagens-de-Programação -----</th>
   </tr>
   <tr>
     <td>
