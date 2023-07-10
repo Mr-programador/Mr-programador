@@ -12,7 +12,7 @@
   <tr>
     <th>-------- Sistemas-Operacionais --------</th>
     <th>-------- Ferramentas-de-Edição --------</th>
-    <th>------ Linguagens-de-Programação ------</th>
+    <th>----- Linguagens-de-Programação -----</th>
   </tr>
   <tr>
     <td>
