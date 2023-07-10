@@ -6,13 +6,35 @@
    <a href="https://github.com/Mr-programador">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mr-programador&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-programador&layout=compact&langs_count=6&theme=github_dark"/>
+</div>
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<table style="display: inline-block; text-align: center;">
+  <tr>
+    <th>----- Sistemas-Operacionais -----</th>
+    <th>----- Ferramentas-de-Edição -----</th>
+    <th>--- Linguagens-de-Programação ---</th>
+  </tr>
+  <tr>
+    <td>
+      <img style="vertical-align: middle;" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+      <img style="vertical-align: middle;" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+    </td>
+    <td>
+      <img style="vertical-align: middle;" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+      <img style="vertical-align: middle;" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+      <img style="vertical-align: middle;" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+      <img style="vertical-align: middle;" alt="Gimp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg">
+    </td>
+    <td>
+      <img style="vertical-align: middle;" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+      <img style="vertical-align: middle;" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <!--<img style="vertical-align: middle;" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">-->
+      <img style="vertical-align: middle;" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+      <img style="vertical-align: middle;" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    </td>
+  </tr>
+</table>
+
  
  <br>
  
